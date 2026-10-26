@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Smart Tomcat
+.smarttomcat/
+
+# Secrets : ne jamais publier
+.env
+
+# Système
+Thumbs.db
+.DS_Store
